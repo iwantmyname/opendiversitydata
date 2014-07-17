@@ -35,3 +35,11 @@ sections:
     title: Clean Tech
     icon: globe
 
+  - id: nonprofit
+    title: Non-Profit
+ 
+  - id: movie
+    title: Film/VFX
+
+  - id: world
+    title: Multi-National with NZ Presence
