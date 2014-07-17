@@ -32,7 +32,11 @@ companies:
   - name: My Republic
   - name: Zeald
   - name: CactusLab
+
   - name: PowerShop
+    url: http://www.powershop.co.nz/
+    twitter: powershop
+
   - name: Touchtech
   - name: Uprise Digital
   - name: Flightless
