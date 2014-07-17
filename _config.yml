@@ -2,12 +2,12 @@ safe: true
 permalink: pretty
 markdown: kramdown
 
-title: Open Diversity Data
-author: Double Union
+title: Open Diversity Data New Zealand
+author: Double Union & Brenda Wallace
 description:
     List of companies who have released data about their employee diversity.
-url: http://opendiversitydata.org
-repo: https://github.com/doubleunion/opendiversitydatanz
+url: http://opendiversitydata.org.nz
+repo: https://github.com/br3nda/opendiversitydata
 img: img/logo.png
 
 exclude:
