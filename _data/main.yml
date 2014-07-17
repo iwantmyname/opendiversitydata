@@ -14,10 +14,6 @@ sections:
     title: Hardware 
     icon: globe
 
-  - id: clean
-    title: Clean Tech
-    icon: globe
-
   - id: nonprofit
     title: Non-Profit
  
