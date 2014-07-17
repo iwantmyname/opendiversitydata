@@ -10,6 +10,8 @@ companies:
   - name: Telecom
     url: http://telecom.co.nz
     twitter: telecomnz
+    diversitydata: yes
+    documentation: http://www.telecom.co.nz/content/0,8748,204684-203840,00.html#5
 
   - name: Vodafone
     twitter: vodafonenz
