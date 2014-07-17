@@ -9,14 +9,22 @@ companies:
     status: No
 
   - name: Worksite Connect
+    url: http://worksiteconnect.co.nz/
 
   - name: Entek
+    url: http://www.entek.co.nz/
 
   - name: Umajin
+    url: http://www.umajin.com/
+    twitter: umajin
 
   - name: Comsol
+    url: http://f2dms.com/
+    twitter: COMSOL_F2
 
   - name: Herd.St
+    url: http://www.herd.st/
+    twitter: herdst
 
   - name: ProWorkflow
 
@@ -161,12 +169,6 @@ companies:
   - name: Mindscape
 
   - name: Go Vocab
-
-  - name: Entek Limited
-
-  - name: Umajin
-
-  - name: Comsol
 
   - name: Serato
 
