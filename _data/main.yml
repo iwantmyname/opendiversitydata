@@ -22,6 +22,9 @@ sections:
 
   - id: world
     title: Multi-National with NZ Presence
+  
+  - id: newrooms
+    title: Newsrooms
 
   - id: software
     title: Software 
