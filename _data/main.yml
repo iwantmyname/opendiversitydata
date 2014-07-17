@@ -1,15 +1,6 @@
 sections:
-  - id: software
-    title: Software 
-    icon: code
-
-  - id: ecommerce
-    title: E-Commerce
-    icon: dollar
-
-  - id: saas 
-    title: SaaS 
-    icon: globe
+  - id: isp
+    title: Internet Service Providers
 
   - id: science
     title: Science
@@ -21,14 +12,6 @@ sections:
 
   - id: hardware
     title: Hardware 
-    icon: globe
-
-  - id: mobile 
-    title: Mobile App 
-    icon: globe
-
-  - id: marketplace
-    title: Marketplace
     icon: globe
 
   - id: clean
@@ -43,4 +26,9 @@ sections:
 
   - id: world
     title: Multi-National with NZ Presence
+
+  - id: software
+    title: Software 
+    icon: code
+ 
 

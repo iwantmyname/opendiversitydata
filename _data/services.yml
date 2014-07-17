@@ -1,0 +1,42 @@
+companies:
+  - name: Mega
+    url: http://mega.co.nz
+    twitter: mega
+    
+  - name: Catayst IT
+    url: http://catalyst.net.nz
+    twitter: catalystnz
+
+  - name: Rad3
+
+  - name: PaperKite
+
+  - name: uShare
+
+  - name: EasyApps
+  - name: Morphoss
+  - name: Whakatu Computer Services
+  - name: Nodero
+  - name: KOORB
+  - name: My Republic
+  - name: Zeald
+  - name: CactusLab
+  - name: PowerShop
+  - name: Touchtech
+  - name: Uprise Digital
+  - name: Flightless
+  - name: Provoke
+  - name: Innovators
+  - name: Swaytech
+  - name: Rabid
+  - name: The Bridge Street Collective
+  - name: Moa Creative
+  - name: Spider Tracks
+  - name: Abletech
+  - name: Tumunu
+  - name: YouDo
+  - name: Pixel Fusion
+  - name: Hive News
+  - name: Enspiral
+  - name: Startup Law
+  - name: Mobile Mentor

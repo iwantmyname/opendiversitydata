@@ -27,106 +27,187 @@ companies:
     twitter: herdst
 
   - name: ProWorkflow
+    url: http://www.proworkflow.com/
+    twitter: ProWorkflow
 
   - name: Influx
+    url: https://influxhq.com/
+    twitter: influxhq
 
   - name: ThunderMaps
+    url: http://learn.thundermaps.com/
+    twitter: ThunderMaps
 
   - name: Randall
+    url: http://www.randall-app.com/
+    twitter: RandallTeam
 
   - name: Capital Planning
+    url: http://www.capitalplanning.co.nz/
+    twitter: capitalplanning
 
   - name: Parrot Analytics
+    url: http://parrotanalytics.com/
+    twitter: ParrotAnalytics
 
   - name: Bugify
+    url: https://bugify.com/
+    twitter: bugify
 
   - name: Filmzu
+    url: http://www.filmzu.com/
 
   - name: Spoke
+    url: http://www.timewespoke.com/
+
 
   - name: iDt Group
+    url: http://www.idtgroup.com/
+    twitter: iDtWorkforce
+
+
 
   - name: PayGlobal
+    url: http://www.payglobal.com/
+    twitter: PayGlobal
 
   - name: Optima
+    url: http://www.theoptimacorporation.com/
 
   - name: Wallflower
+    url: http://www.wallflowerglobal.com/
+    twitter: wallflowertony
 
   - name: InsightNG
+    url: http://www.insightng.com/
 
   - name: Orion Health
-
-  - name: Crossware
+    url: http://www.orionhealth.com/nz/
+    twitter: orionhealth
 
   - name: Resistor
+    url: http://resistor.io/
+    twitter: jamesotron
 
   - name: Data Torque
+    url: http://www.datatorque.com
 
   - name: Global Office
+    url: http://www.globaloffice.co.nz/
+    twitter: globalofficenz
 
   - name: Green Button
+    url: http://www.greenbutton.com/
 
   - name: Optimation
+    url: http://www.optimation.co.nz/
+    twitter: optimation
 
   - name: Atomic Droplet
+    url: http://www.atomicdroplet.com/
 
   - name: Rush Digital Interactive
+    url: http://www.rushdigital.co.nz/
+    twitter: rushdigital
 
   - name: Nutrunning
+    url: http://nutrunning.com/
 
   - name: Run the Red
+    url: http://runthered.com/
+    twitter: RunTheRed
 
   - name: Kiwi AR
+    url: http://www.kiwiar.co.nz/
 
   - name: Beek
+    url: http://beek.co/
+    twitter: 
 
   - name: Unlimited Realities
+    url: http://www.unlimitedrealities.com/
 
   - name: Finger Tapps
+    url: http://www.fingertapps.com/
+    twitter: Fingertapps
 
   - name: KanbanFor1
+    url: http://nomad8.com/kanbanfor1/
+    twitter: 
 
   - name: Koordinates
+    url: https://koordinates.com/
+    twitter: koordinates
 
   - name: Cadimage
+    url: http://cadimage.com/
+    twitter: cadimage
 
   - name: Star86
+    url: http://www.star86.com/
 
   - name: Affilorama
+    url: http://www.affilorama.com/
+    twitter: affilorama
 
   - name: Snapper
+    url: https://www.snapper.co.nz/
+    twitter: TeamSnapper
 
   - name: World Wide Access
+    url: http://export-x.com/
+    twitter: exportx
 
   - name: One Room
+    url: https://www.oneroom.co.nz/
+    twitter: OneRoom100
 
   - name: FuseIT
+    url: http://www.fuseit.com/
+    twitter: FuseInfoTech
 
   - name: Biomatters
+    url: http://biomatters.com/
+    twitter: biomatters
 
   - name: Snaffle
 
   - name: Woohoo
 
   - name: Selector
+    url: http://selectorgroup.com/
+    twitter: selectorlimited
+
 
   - name: Acutecrew
+    url: http://www.acutecrew.com/
 
   - name: BCS Group
+    url: http://bcsgroup.biz
+    twitter: BCS_Group_
 
   - name: Digital Binocular Station
+    url: http://digitalbinocularstation.com/
+    twitter: MindSpaceS
 
   - name: Imaginality
+    url: http://getimaginality.com/
 
   - name: YQ
+    url: http://www.yq.co.nz/
+    twitter: YQ_App
 
   - name: imersia
+    url: http://www.imersia.com/
 
   - name: School-links
+    url: http://www.school-links.co.nz
 
   - name: Pixelthis
+    url: http://www.pixelthismobile.com/
 
-  - name: MEA Mobile
+  - name: MEA Mobile    
+    url: http://meamobile.com/
 
   - name: Wherewolf
 
@@ -153,6 +234,8 @@ companies:
   - name: Cumulo9
 
   - name: Totara LMS
+    url: http://www.totaralms.com/
+    twitter: totaralms
 
   - name: SimBerry
 
@@ -167,6 +250,12 @@ companies:
   - name: SylSemantics
 
   - name: Mindscape
+    url: http://www.mindscapehq.com/
+    twitter: mindscapeHQ
+  
+  - name: RayGun
+    url: https://raygun.io/
+    twitter: raygunio
 
   - name: Go Vocab
 
@@ -181,6 +270,7 @@ companies:
   - name: Wynyard
  
   - name: DPS Payment Express
+    url: http://www.paymentexpress.com/
 
   - name: Film Convert
 
