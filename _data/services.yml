@@ -11,7 +11,9 @@ companies:
 
   - name: Xero
 
-  - name: DataComm
+  - name: DataCom
+    url: http://datacom.co.nz/
+    twitter: Datacom
   
   - name: Silverstripe
 
@@ -39,5 +41,6 @@ companies:
   - name: Pixel Fusion
   - name: Hive News
   - name: Enspiral
+    twitter: enspiral
   - name: Startup Law
   - name: Mobile Mentor
