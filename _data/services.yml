@@ -35,7 +35,11 @@ companies:
   - name: Provoke
   - name: Innovators
   - name: Swaytech
+
   - name: Rabid
+    twitter: rabidtech
+    url: http://rabid.co.nz
+
   - name: The Bridge Street Collective
   - name: Moa Creative
   - name: Spider Tracks
