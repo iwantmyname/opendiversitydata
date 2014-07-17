@@ -8,8 +8,13 @@ companies:
     twitter: sligshotnz
 
   - name: Telecom
+    url: http://telecom.co.nz
+    twitter: telecomnz
 
   - name: Vodafone
+    twitter: vodafonenz
+    url: http://vodafone.co.nz
 
   - name: 2Degrees
-
+    url: http://2degressmobile.co.nz
+    twitter: 2degreesmobile
