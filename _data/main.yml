@@ -1,17 +1,37 @@
 sections:
-  - id: tech
-    title: Technology
+  - id: software
+    title: Software 
     icon: code
 
-  - id: banking
-    title: Banking / Finance
+  - id: ecommerce
+    title: E-Commerce
     icon: dollar
 
-  - id: defense
-    title: Defense
+  - id: saas 
+    title: SaaS 
     icon: globe
 
-  - id: other
-    title: Other
+  - id: science
+    title: Science
+    icon: globe
+
+  - id: services
+    title: Services
+    icon: globe
+
+  - id: hardware
+    title: Hardware 
+    icon: globe
+
+  - id: mobile 
+    title: Mobile App 
+    icon: globe
+
+  - id: marketplace
+    title: Marketplace
+    icon: globe
+
+  - id: clean
+    title: Clean Tech
     icon: globe
 
