@@ -1,0 +1,24 @@
+companies:
+  - name: APNZ/New Zealand Herald 
+    url: https://nzherald.co.nz/
+    twitter: nzherald
+
+  - name: Fairfax Media/Stuff
+    url: http://www.fairfaxmedia.co.nz/
+    twitter: FairfaxMediaNZ
+
+  - name: Radio NZ
+    url: http://www.radionz.co.nz/
+    twitter: radionz
+
+  - name: MediaWorks/ TV3
+    url: http://www.mediaworks.co.nz/
+    twitter: TV3nz
+
+  - name: Television New Zealand
+    url: http://tvnz.co.nz/
+    twitter: onenewsnz
+    
+  - name: Māori Television
+    url: http://www.maoritelevision.com/
+    twitter: maoritv
