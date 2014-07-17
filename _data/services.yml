@@ -16,6 +16,8 @@ companies:
     twitter: Datacom
   
   - name: Silverstripe
+    url: http://silverstripe.com/
+    twitter: silverstripe
 
   - name: I want my name
     twitter: iwantmyname
