@@ -25,37 +25,40 @@ companies:
     twitter: iwantmyname
     url: http://iwantmyname.co.nz
 
-  - name: EasyApps
-  - name: Whakatu Computer Services
-  - name: Nodero
-  - name: KOORB
-  - name: My Republic
-  - name: Zeald
-  - name: CactusLab
+#  - name: EasyApps
+#  - name: Whakatu Computer Services
+#  - name: Nodero
+#  - name: KOORB
+#  - name: My Republic
+#  - name: Zeald
+#  - name: CactusLab
 
   - name: PowerShop
     url: http://www.powershop.co.nz/
     twitter: powershop
 
-  - name: Touchtech
-  - name: Uprise Digital
-  - name: Flightless
-  - name: Provoke
-  - name: Innovators
-  - name: Swaytech
+#  - name: Touchtech
+#  - name: Uprise Digital
+#  - name: Flightless
+#  - name: Provoke
+#  - name: Innovators
+#  - name: Swaytech
 
   - name: Rabid
     twitter: rabidtech
     url: http://rabid.co.nz
 
   - name: The Bridge Street Collective
+    url: http://www.bridgestreet.co.nz/
+    twitter: bridge_st
+
   - name: Moa Creative
   - name: Spider Tracks
   - name: Abletech
   - name: Tumunu
-  - name: YouDo
+#  - name: YouDo
   - name: Pixel Fusion
-  - name: Hive News
+#  - name: Hive News
   - name: Enspiral
     twitter: enspiral
     diversitydata: yes
