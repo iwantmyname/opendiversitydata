@@ -60,12 +60,12 @@ companies:
     url: http://www.bridgestreet.co.nz/
     twitter: bridge_st
 
-  - name: Moa Creative
-  - name: Spider Tracks
-  - name: Abletech
-  - name: Tumunu
+#  - name: Moa Creative
+#  - name: Spider Tracks
+#  - name: Abletech
+#  - name: Tumunu
 #  - name: YouDo
-  - name: Pixel Fusion
+#  - name: Pixel Fusion
 #  - name: Hive News
   - name: Enspiral
     twitter: enspiral
@@ -73,5 +73,5 @@ companies:
     documentation: https://twitter.com/enspiral/status/489983678454697984
     img: enspiral.png
 
-  - name: Startup Law
-  - name: Mobile Mentor
+#  - name: Startup Law
+#  - name: Mobile Mentor
