@@ -13,6 +13,10 @@ companies:
   - name: Xero
     twitter: xero
 
+  - name: NZX
+    url: http://nzx.com
+    twitter: NZXGroup
+
   - name: DataCom
     url: http://datacom.co.nz/
     twitter: Datacom
