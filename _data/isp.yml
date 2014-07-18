@@ -13,6 +13,7 @@ companies:
     diversitydata: yes
     documentation: http://www.telecom.co.nz/content/0,8748,204684-203840,00.html#5
     date-updated: 2013
+    img: telecom.png
 
   - name: Vodafone
     twitter: vodafonenz
