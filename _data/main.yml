@@ -5,6 +5,9 @@ sections:
   - id: science
     title: Science
     icon: globe
+  
+  - id: banks
+    title: Banking
 
   - id: services
     title: Services

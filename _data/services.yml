@@ -58,5 +58,7 @@ companies:
   - name: Hive News
   - name: Enspiral
     twitter: enspiral
+    diversitydata: yes
+    documentation: https://twitter.com/DevAcademyNZ/status/489977347291226112
   - name: Startup Law
   - name: Mobile Mentor
