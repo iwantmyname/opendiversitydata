@@ -2,4 +2,25 @@ companies:
   - name: Dragonfly Science
     url: http://dragonfly.co.nz 
     twitter: dflysci
+  - name: AgResearch
+    url: http://www.agresearch.co.nz/
+    twitter: AgResearchNEWS
+  - name: GNS Science
+    url: http://www.gns.cri.nz/
+    twitter: gnsscience
+  - name: Institute of Environmental Science and Research
+    url: http://www.esr.cri.nz/
+    twitter: 
+  - name: Landcare Research
+    url: http://www.landcareresearch.co.nz/
+    twitter: LCR_NZ
+  - name: NIWA
+    url:  http://www.niwa.co.nz/
+    twitter: niwa_nz
+  - name: Plant & Food Research
+    url: http://www.plantandfood.co.nz/
+    twitter: plantandfood
+  - name: Scion 
+    url: http://www.scionresearch.com/
+    twitter: 
     
