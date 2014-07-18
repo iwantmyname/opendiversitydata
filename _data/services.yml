@@ -25,6 +25,10 @@ companies:
     url: http://silverstripe.com/
     twitter: silverstripe
 
+  - name: Affinity
+    url: https://www.affinity.net.nz/
+    twitter: affinitynz
+
   - name: I want my name
     twitter: iwantmyname
     url: http://iwantmyname.co.nz
