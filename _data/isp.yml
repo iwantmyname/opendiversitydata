@@ -2,6 +2,7 @@ companies:
   - name: Orcon
     url: http://orcon.co.nz
     twitter: orcon
+    img: orcon.png
 
   - name: Slingshot
     url: http://slingshot.co.nz
