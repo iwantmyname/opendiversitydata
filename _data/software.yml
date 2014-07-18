@@ -8,19 +8,19 @@ companies:
     date-updated: YYYY
     status: No
 
-  - name: Worksite Connect
-    url: http://worksiteconnect.co.nz/
+#  - name: Worksite Connect
+#    url: http://worksiteconnect.co.nz/
 
-  - name: Entek
-    url: http://www.entek.co.nz/
+#  - name: Entek
+#    url: http://www.entek.co.nz/
 
-  - name: Umajin
-    url: http://www.umajin.com/
-    twitter: umajin
+#  - name: Umajin
+#    url: http://www.umajin.com/
+#    twitter: umajin
 
-  - name: Comsol
-    url: http://f2dms.com/
-    twitter: COMSOL_F2
+#  - name: Comsol
+#    url: http://f2dms.com/
+#    twitter: COMSOL_F2
 
   - name: Herd.St
     url: http://www.herd.st/
@@ -54,11 +54,11 @@ companies:
     url: https://bugify.com/
     twitter: bugify
 
-  - name: Filmzu
-    url: http://www.filmzu.com/
+#  - name: Filmzu
+#    url: http://www.filmzu.com/
 
-  - name: Spoke
-    url: http://www.timewespoke.com/
+#  - name: Spoke
+#    url: http://www.timewespoke.com/
 
 
   - name: iDt Group
@@ -71,33 +71,33 @@ companies:
     url: http://www.payglobal.com/
     twitter: PayGlobal
 
-  - name: Optima
-    url: http://www.theoptimacorporation.com/
+#  - name: Optima
+#    url: http://www.theoptimacorporation.com/
 
-  - name: Wallflower
-    url: http://www.wallflowerglobal.com/
-    twitter: wallflowertony
+#  - name: Wallflower
+#    url: http://www.wallflowerglobal.com/
+#    twitter: wallflowertony
 
-  - name: InsightNG
-    url: http://www.insightng.com/
+#  - name: InsightNG
+#    url: http://www.insightng.com/
 
   - name: Orion Health
     url: http://www.orionhealth.com/nz/
     twitter: orionhealth
 
-  - name: Resistor
-    url: http://resistor.io/
-    twitter: jamesotron
+#  - name: Resistor
+#    url: http://resistor.io/
+#    twitter: jamesotron
 
-  - name: Data Torque
-    url: http://www.datatorque.com
+#  - name: Data Torque
+#    url: http://www.datatorque.com
 
   - name: Global Office
     url: http://www.globaloffice.co.nz/
     twitter: globalofficenz
 
-  - name: Green Button
-    url: http://www.greenbutton.com/
+#  - name: Green Button
+#    url: http://www.greenbutton.com/
 
   - name: Optimation
     url: http://www.optimation.co.nz/
