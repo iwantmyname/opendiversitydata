@@ -6,6 +6,7 @@ companies:
   - name: Slingshot
     url: http://slingshot.co.nz
     twitter: slingshotnz
+    img: slingshot.png
 
   - name: Telecom
     url: http://telecom.co.nz
