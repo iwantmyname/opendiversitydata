@@ -1,8 +1,8 @@
 companies:
   - name: Microsoft NZ
+    twitter: microsoftnz
 
-  - name: IBM NZ
-
-  - name: HP NZ
+  - name: Hewlett Packard NZ
+    twitter: hpnz
 
 
