@@ -29,9 +29,12 @@ companies:
     url: https://www.affinity.net.nz/
     twitter: affinitynz
 
-  - name: I want my name
+  - name: iwantmyname
     twitter: iwantmyname
     url: http://iwantmyname.co.nz
+    diversitydata: yes
+    documentation: https://iwantmyname.com/about
+
 
 #  - name: EasyApps
 #  - name: Whakatu Computer Services
